@@ -7,7 +7,7 @@ The [C++ Core Guidelines](CppCoreGuidelines.md) are a collaborative effort led b
 person-years of discussion and design across a number of organizations. Their design encourages general applicability and broad adoption but
 they can be freely copied and modified to meet your organization's needs.
 
-## Getting started
+## Getting started here
 
 The guidelines themselves are found at [CppCoreGuidelines](CppCoreGuidelines.md). The document is in [GH-flavored MarkDown](https://github.github.com/gfm/). It is intentionally kept simple, mostly in ASCII, to allow automatic post-processing such as language translation and reformatting. The editors maintain one
 [version formatted for browsing](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines). Note that it is manually integrated and can be slightly older than the version in the master branch.
